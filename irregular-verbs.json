@@ -1,0 +1,728 @@
+
+{
+    "Verbs":[
+    
+     {"verb":{
+        "Infinitivo":"To arise",
+        "Passado" : "arose",
+        "Particípio" : "arisen",
+        "Tradução": "Levantar-se" 
+    }},
+    {"verb":{
+        "Infinitivo":"To awake",
+        "Passado" : "awoke",
+        "Particípio" : "awoken",
+        "Tradução": "Acordar" 
+    }},
+    {"verb":{
+        "Infinitivo":"To bear",
+        "Passado" : "bore",
+        "Particípio" : "born",
+        "Tradução": ["Suportar","Dar à luz","Nascer"] 
+    }},
+    {"verb":{
+        "Infinitivo":"To beat",
+        "Passado" : "beat",
+        "Particípio" : "beaten",
+        "Tradução":"Bater"
+    }},
+    {"verb":{
+        "Infinitivo":"To become",
+        "Passado" : "became",
+        "Particípio" : "become",
+        "Tradução":"Tornar-se"
+    }},
+    {"verb":{
+        "Infinitivo":"To begin",
+        "Passado" : "began",
+        "Particípio" : "begun",
+        "Tradução":"Começar"
+    }},
+    {"verb":{
+        "Infinitivo":"To bend",
+        "Passado" : "bent",
+        "Particípio" : "bent",
+        "Tradução":"Curvar"
+    }},
+    {"verb":{
+        "Infinitivo":"To bet",
+        "Passado" : "bet",
+        "Particípio" : "bet",
+        "Tradução":"Apostar"
+    }},
+    {"verb":{
+        "Infinitivo":"To bind",
+        "Passado" : "bound",
+        "Particípio" : "bound",
+        "Tradução":"Ligar"
+    }},
+    {"verb":{
+        "Infinitivo":"To bite",
+        "Passado" : "bit",
+        "Particípio" : "bitten",
+        "Tradução":"Morder"
+    }},
+    {"verb":{
+        "Infinitivo":"To bleed",
+        "Passado" : "bled",
+        "Particípio" : "bled",
+        "Tradução":"Sangrar"
+    }},
+    {"verb":{
+        "Infinitivo":"To blow",
+        "Passado" : "blew",
+        "Particípio" : "blown",
+        "Tradução":"Soprar"
+    }},
+    {"verb":{
+        "Infinitivo":"To bring",
+        "Passado" : "brought",
+        "Particípio" : "brought",
+        "Tradução":"Trazer"
+    }},
+    {"verb":{
+        "Infinitivo":"To build",
+        "Passado" : "built",
+        "Particípio" : "built",
+        "Tradução":"Construir"
+    }},
+    {"verb":{
+        "Infinitivo":"To burst",
+        "Passado" : "burst",
+        "Particípio" : "burst",
+        "Tradução":["Explodir","Estourar"]
+    }},
+    {"verb":{
+        "Infinitivo":"To buy",
+        "Passado" : "bought",
+        "Particípio" : "bought",
+        "Tradução":"Comprar"
+    }},
+    {"verb":{
+        "Infinitivo":"To cast",
+        "Passado" : "cast",
+        "Particípio" : "cast",
+        "Tradução":"Lançar"
+    }},
+    {"verb":{
+        "Infinitivo":"To catch",
+        "Passado" : "caught",
+        "Particípio" : "caught",
+        "Tradução":["Pegar", "Apanhar"]
+    }},
+    {"verb":{
+        "Infinitivo":"To choose",
+        "Passado" : "chose",
+        "Particípio" : "chosen",
+        "Tradução":"Escolher"
+    }},
+    {"verb":{
+        "Infinitivo":"To cling",
+        "Passado" : "clung",
+        "Particípio" : "clung",
+        "Tradução":["Agarrar-se","Apergar-se"]
+    }},
+    {"verb":{
+        "Infinitivo":"To come",
+        "Passado" : "came",
+        "Particípio" : "come",
+        "Tradução":"Vir"
+    }},
+    {"verb":{
+        "Infinitivo":"To cost",
+        "Passado" : "cost",
+        "Particípio" : "cost",
+        "Tradução":"Custar"
+    }},
+    {"verb":{
+        "Infinitivo":"To creep",
+        "Passado" : "crept",
+        "Particípio" : "crept",
+        "Tradução":["Arrastar-se","Rastejar"]
+    }},    
+    {"verb":{
+        "Infinitivo":"To cut",
+        "Passado" : "cut",
+        "Particípio" : "cut",
+        "Tradução":"Cortar"
+    }},
+    {"verb":{
+        "Infinitivo":"To deal",
+        "Passado" : "dealt",
+        "Particípio" : "dealt",
+        "Tradução":["Lidar","Tratar"]
+    }},
+    {"verb":{
+        "Infinitivo":"To dig",
+        "Passado" : "dug",
+        "Particípio" : "dug",
+        "Tradução":"Cavar"
+    }},
+    {"verb":{
+        "Infinitivo":"To do",
+        "Passado" : "did",
+        "Particípio" : "done",
+        "Tradução":"Fazer"
+    }},
+    {"verb":{
+        "Infinitivo":"To draw",
+        "Passado" : "drew",
+        "Particípio" : "drawn",
+        "Tradução":["Desenhar","Sacar"]
+    }},
+    {"verb":{
+        "Infinitivo":"To drink",
+        "Passado" : "drank",
+        "Particípio" : "drunk",
+        "Tradução":"Beber"
+    }},
+    {"verb":{
+        "Infinitivo":"To drive",
+        "Passado" : "drove",
+        "Particípio" : "driven",
+        "Tradução":"Dirigir"
+    }},
+    {"verb":{
+        "Infinitivo":"To eat",
+        "Passado" : "ate",
+        "Particípio" : "eaten",
+        "Tradução":"Comer"
+    }},
+    {"verb":{
+        "Infinitivo":"To fall",
+        "Passado" : "fell",
+        "Particípio" : "fallen",
+        "Tradução":"Cair"
+    }},
+   { "verb":{
+        "Infinitivo":"To feed",
+        "Passado" : "fed",
+        "Particípio" : "fed",
+        "Tradução":"Alimentar"
+    }},
+    {"verb":{
+        "Infinitivo":"To feel",
+        "Passado" : "felt",
+        "Particípio" : "felt",
+        "Tradução":"Sentir"
+    }},
+    {"verb":{
+        "Infinitivo":"To fight",
+        "Passado" : "fought",
+        "Particípio" : "fought",
+        "Tradução":["Lutar","Brigar"]
+    }},
+    {"verb":{
+        "Infinitivo":"To find",
+        "Passado" : "found",
+        "Particípio" : "found",
+        "Tradução":"Encontrar"
+    }},
+   { "verb":{
+        "Infinitivo":"To fling",
+        "Passado" : "flung",
+        "Particípio" : "flung",
+        "Tradução":["Arremessar","Lançar"]
+    }},
+    {"verb":{
+        "Infinitivo":"To fly",
+        "Passado" : "flew",
+        "Particípio" : "flown",
+        "Tradução":"Voar"
+    }},
+    {"verb":{
+        "Infinitivo":"To forget",
+        "Passado" : "forgot",
+        "Particípio" : "forgotten",
+        "Tradução":"Esquecer"
+    }},
+    {"verb":{
+        "Infinitivo":"To forgive",
+        "Passado" : "forgave",
+        "Particípio" : "forgiven",
+        "Tradução":"Perdoar"
+    }},
+   { "verb":{
+        "Infinitivo":"To freeze",
+        "Passado" : "froze",
+        "Particípio" : "frozen",
+        "Tradução":"Congelar"
+    }},
+    {"verb":{
+        "Infinitivo":"To get",
+        "Passado" : "got",
+        "Particípio" : "got",
+        "Tradução":"Conseguir"
+    }},
+    {"verb":{
+        "Infinitivo":"To give",
+        "Passado" : "gave",
+        "Particípio" : "given",
+        "Tradução":"Dar"
+    }},
+    { "verb":{
+        "Infinitivo":"To grind",
+        "Passado" : "ground",
+        "Particípio" : "ground",
+        "Tradução":"Moer"
+    }},
+    {"verb":{
+        "Infinitivo":"To grow",
+        "Passado" : "grew",
+        "Particípio" : "grown",
+        "Tradução":"Crescer"
+    }},
+    {"verb":{
+        "Infinitivo":"To hang",
+        "Passado" : "hung",
+        "Particípio" : "hung",
+        "Tradução":"Pendurar"
+    }},
+    {"verb":{
+        "Infinitivo":"To have",
+        "Passado" : "had",
+        "Particípio" : "had",
+        "Tradução":"Ter"
+    }},
+   { "verb":{
+        "Infinitivo":"To hear",
+        "Passado" : "heard",
+        "Particípio" : "heard",
+        "Tradução":"Ouvir"
+    }},
+    {"verb":{
+        "Infinitivo":"To hide",
+        "Passado" : "hid",
+        "Particípio" : "hidden",
+        "Tradução":"Esconder"
+    }},
+    {"verb":{
+        "Infinitivo":"To hit",
+        "Passado" : "hit",
+        "Particípio" : "hit",
+        "Tradução":"Bater"
+    }},
+    {"verb":{
+        "Infinitivo":"To hold",
+        "Passado" : "held",
+        "Particípio" : "held",
+        "Tradução":["Segurar","Manter"]
+    }},
+    {"verb":{
+        "Infinitivo":"To hurt",
+        "Passado" : "hurt",
+        "Particípio" : "hurt",
+        "Tradução":["Ferir","Machucar"]
+    }},
+   { "verb":{
+        "Infinitivo":"To keep",
+        "Passado" : "kept",
+        "Particípio" : "kept",
+        "Tradução":["Manter","Segurar"]
+    }},
+   { "verb":{
+        "Infinitivo":"To know",
+        "Passado" : "knew",
+        "Particípio" : "known",
+        "Tradução":["Saber","Conhecer"]
+    }},
+   { "verb":{
+        "Infinitivo":"To lay",
+        "Passado" : "laid",
+        "Particípio" : "laid",
+        "Tradução":["Colocar","Pôr"]
+    }},
+    {"verb":{
+        "Infinitivo":"To lead",
+        "Passado" : "led",
+        "Particípio" : "led",
+        "Tradução":"Conduzir"
+    }},
+    {"verb":{
+        "Infinitivo":"To leave",
+        "Passado" : "left",
+        "Particípio" : "left",
+        "Tradução":["Partir","Deixar"]
+    }},
+    {"verb":{
+        "Infinitivo":"To lend",
+        "Passado" : "lent",
+        "Particípio" : "lent",
+        "Tradução":"Emprestar"
+    }},
+    {"verb":{
+        "Infinitivo":"To let",
+        "Passado" : "let",
+        "Particípio" : "let",
+        "Tradução":"Deixar"
+    }},
+    {"verb":{
+        "Infinitivo":"To lie",
+        "Passado" : "lay",
+        "Particípio" : "lain",
+        "Tradução":["Deitar-se","Situar-se"]
+    }},
+   { "verb":{
+        "Infinitivo":"To light",
+        "Passado" : "lit",
+        "Particípio" : "lit",
+        "Tradução":"Acender"
+    }},
+    {"verb":{
+        "Infinitivo":"To lose",
+        "Passado" : "lost",
+        "Particípio" : "lost",
+        "Tradução":"Perder"
+    }},
+    {"verb":{
+        "Infinitivo":"To make",
+        "Passado" : "made",
+        "Particípio" : "made",
+        "Tradução":"Fazer"
+    }},
+    {"verb":{
+        "Infinitivo":"To mean",
+        "Passado" : "meant",
+        "Particípio" : "meant",
+        "Tradução":"Significar"
+    }},
+    {"verb":{
+        "Infinitivo":"To meet",
+        "Passado" : "met",
+        "Particípio" : "met",
+        "Tradução":"Encontrar"
+    }},
+    {"verb":{
+        "Infinitivo":"To pay",
+        "Passado" : "paid",
+        "Particípio" : "paid",
+        "Tradução":"Pagar"
+    }},
+    {"verb":{
+        "Infinitivo":  "To quit",
+        "Passado" : "quit",
+        "Particípio" : "quit",
+        "Tradução":["Desistir","Abandonar"]
+    }},
+    {"verb":{
+        "Infinitivo": "To read",
+        "Passado" : "read",
+        "Particípio" : "read",
+        "Tradução":"Ler"
+    }},
+    {"verb":{
+        "Infinitivo": "To ride",
+        "Passado" : "rode",
+        "Particípio" : "ridden",
+        "Tradução":["Cavalgar","Andar de"]
+    }},
+    {"verb":{
+        "Infinitivo": "To ring",
+        "Passado" : "rang",
+        "Particípio" : "rung",
+        "Tradução":["Tocar","Soar"]
+    }},
+    {"verb":{
+        "Infinitivo": "To rise",
+        "Passado" : "rose",
+        "Particípio" : "risen",
+        "Tradução":"Levantar-se"
+    }},
+    {"verb":{
+        "Infinitivo": "To run",
+        "Passado" : "ran",
+        "Particípio" : "run",
+        "Tradução":"Correr"
+    }},
+    {"verb":{
+        "Infinitivo": "To say",
+        "Passado" : "said",
+        "Particípio" : "said",
+        "Tradução":"Dizer"
+    }},
+    {"verb":{
+        "Infinitivo": "To see",
+        "Passado" : "saw",
+        "Particípio" : "seen",
+        "Tradução":"Ver"
+    }},
+    {"verb":{
+        "Infinitivo": "To seek",
+        "Passado" : "sought",
+        "Particípio" : "sought",
+        "Tradução":"Procurar"
+    }},
+   { "verb":{
+        "Infinitivo": "To sell",
+        "Passado" : "sold",
+        "Particípio" : "sold",
+        "Tradução":"Vender"
+    }},
+   { "verb":{
+        "Infinitivo": "To send",
+        "Passado" : "sent",
+        "Particípio" : "sent",
+        "Tradução":"Enviar"
+    }},
+    {"verb":{
+        "Infinitivo": "To set",
+        "Passado" : "set",
+        "Particípio" : "set",
+        "Tradução":["Ajustar","Fixar"]
+    }},
+    {"verb":{
+        "Infinitivo": "To shake",
+        "Passado" : "shook",
+        "Particípio" : "shaken",
+        "Tradução":"Agitar"
+    }},
+    {"verb":{
+        "Infinitivo": "To shine",
+        "Passado" : "shone",
+        "Particípio" : "shone",
+        "Tradução":"Brilhar"
+    }},
+    {"verb":{
+        "Infinitivo": "To show",
+        "Passado" : "showed",
+        "Particípio" : "shown",
+        "Tradução":"Mostrar"
+    }},
+   { "verb":{
+        "Infinitivo": "To shrink",
+        "Passado" : "shrank",
+        "Particípio" : "shrunk",
+        "Tradução":"Encolher"
+    }},
+   { "verb":{
+        "Infinitivo": "To shut",
+        "Passado" : "shut",
+        "Particípio" : "shut",
+        "Tradução":"Fechar"
+    }},
+    {"verb":{
+        "Infinitivo": "To sing",
+        "Passado" : "sang",
+        "Particípio" : "sung",
+        "Tradução":"Cantar"
+    }},
+    {"verb":{
+        "Infinitivo": "To sink",
+        "Passado" : "sank",
+        "Particípio" : "sunk",
+        "Tradução":"Afundar"
+    }},
+   { "verb":{
+        "Infinitivo": "To sit",
+        "Passado" : "sat",
+        "Particípio" : "sat",
+        "Tradução":"Sentar-se"
+    }},
+    {"verb":{
+        "Infinitivo": "To sleep",
+        "Passado" : "slept",
+        "Particípio" : "slept",
+        "Tradução":"Dormir"
+    }},
+    {"verb":{
+        "Infinitivo": "To slide",
+        "Passado" : "slid",
+        "Particípio" : "slid",
+        "Tradução":"Escorregar"
+    }},
+   { "verb":{
+        "Infinitivo": "To slit",
+        "Passado" : "slit",
+        "Particípio" : "slit",
+        "Tradução":["Cortar","Fender"]
+    }},
+    {"verb":{
+        "Infinitivo": "To speak",
+        "Passado" : "spoke",
+        "Particípio" : "spoken",
+        "Tradução":"Falar"
+    }},
+    {"verb":{
+        "Infinitivo": "To spend",
+        "Passado" : "spent",
+        "Particípio" : "spent",
+        "Tradução":"Gastar"
+    }},
+    {"verb":{
+        "Infinitivo": "To spin",
+        "Passado" : "spun",
+        "Particípio" : "spun",
+        "Tradução":"Girar"
+    }},
+    {"verb":{
+        "Infinitivo":"To split",
+        "Passado" : "split",
+        "Particípio" : "split",
+        "Tradução":["Dividir","Partir"]
+    }},
+    {"verb":{
+        "Infinitivo": "To spread",
+        "Passado" : "spread",
+        "Particípio" : "spread",
+        "Tradução":"Espalhar"
+    }},
+    {"verb":{
+        "Infinitivo": "To spring",
+        "Passado" : "sprang",
+        "Particípio" : "sprung",
+        "Tradução":["Saltar","Pular"]
+    }},
+    {"verb":{
+        "Infinitivo": "To stand",
+        "Passado" : "stood",
+        "Particípio" : "stood",
+        "Tradução":["Ficar","Permanecer"]
+    }},
+    {"verb":{
+        "Infinitivo": "To steal",
+        "Passado" : "stole",
+        "Particípio" : "stolen",
+        "Tradução":"Roubar"
+    }},
+    {"verb":{
+        "Infinitivo": "To stick",
+        "Passado" : "stuck",
+        "Particípio" : "stuck",
+        "Tradução":"Grudar"
+    }},
+   { "verb":{
+        "Infinitivo": "To sting",
+        "Passado" : "stung",
+        "Particípio" : "stung",
+        "Tradução":["Picar","Ferroar"]
+    }},
+    {"verb":{
+        "Infinitivo": "To strike",
+        "Passado" : "struck",
+        "Particípio" : "struck",
+        "Tradução":["Bater","Golpear"]
+    }},
+    {"verb":{
+        "Infinitivo": "To swear",
+        "Passado" : "swore",
+        "Particípio" : "sworn",
+        "Tradução":"Jurar"
+    }},
+    {"verb":{
+        "Infinitivo": "To sweep",
+        "Passado" : "swept",
+        "Particípio" : "swept",
+        "Tradução":"Varrer"
+    }},
+   { "verb":{
+        "Infinitivo": "To swim",
+        "Passado" : "swam",
+        "Particípio" : "swum",
+        "Tradução":"Nadar"
+    }},
+    {"verb":{
+        "Infinitivo": "To swing",
+        "Passado" : "swung",
+        "Particípio" : "swung",
+        "Tradução":"Balançar"
+    }},
+   { "verb":{
+        "Infinitivo": "To take",
+        "Passado" : "took",
+        "Particípio" : "taken",
+        "Tradução":["Levar","Tomar"]
+    }},
+    {"verb":{
+        "Infinitivo": "To teach",
+        "Passado" : "taught",
+        "Particípio" : "taught",
+        "Tradução":"Ensinar"
+    }},
+   { "verb":{
+        "Infinitivo": "To tear",
+        "Passado" : "tore",
+        "Particípio" : "torn",
+        "Tradução":"Rasgar"
+    }},
+   { "verb":{
+        "Infinitivo": "To tell",
+        "Passado" : "told",
+        "Particípio" : "told",
+        "Tradução":"Contar"
+    }},
+    {"verb":{
+        "Infinitivo": "To think",
+        "Passado" : "thought",
+        "Particípio" : "thought",
+        "Tradução":"Pensar"
+    }},
+    {"verb":{
+        "Infinitivo": "To throw",
+        "Passado" : "threw",
+        "Particípio" : "thrown",
+        "Tradução":["Arremessar","Atirar"]
+    }},
+   { "verb":{
+        "Infinitivo": "To understand",
+        "Passado" : "understood",
+        "Particípio" : "understood",
+        "Tradução":"Entender"
+    }},
+    {"verb":{
+        "Infinitivo": "To wake",
+        "Passado" : "woke",
+        "Particípio" : "woken",
+        "Tradução":"Acordar"
+    }},
+    {"verb":{
+        "Infinitivo": "To wear",
+        "Passado" : "wore",
+        "Particípio" : "worn",
+        "Tradução":"Usar"
+    }},
+   { "verb":{
+        "Infinitivo": "To weave",
+        "Passado" : "wove",
+        "Particípio" : "woven",
+        "Tradução":"Tecer"
+    }},
+    {"verb":{
+        "Infinitivo": "To weep",
+        "Passado" : "wept",
+        "Particípio" : "wept",
+        "Tradução":"Chorar"
+    }},
+    {"verb":{
+        "Infinitivo": "To wet",
+        "Passado" : "wet",
+        "Particípio" : "wet",
+        "Tradução":"Molhar"
+    }},
+   { "verb":{
+        "Infinitivo": "To win",
+        "Passado" : "won",
+        "Particípio" : "won",
+        "Tradução":"Vencer"
+    }},
+    {"verb":{
+        "Infinitivo": "To wind",
+        "Passado" : "wound",
+        "Particípio" : "wound",
+        "Tradução":["Dar corda","Serpentear"]
+    }},
+    {"verb":{
+        "Infinitivo": "To wring",
+        "Passado" : "wrung",
+        "Particípio" : "wrung",
+        "Tradução":["Retorcer-se","Espremer"]
+
+    }},
+    {"verb":{
+        "Infinitivo": "To write",
+        "Passado" : "wrote",
+        "Particípio" : "written",
+        "Tradução":"Escrever"
+    }}
+    ]
+
+}
