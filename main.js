@@ -21,7 +21,7 @@ const getVerb = () => {
 
             const comparar = (vl) =>{
                 if(Past.value.length > 0){
-                    if(Past.value.toUpperCase().replace(" ",'') == vl.Passado.toUpperCase()){
+                    if(Past.value.toUpperCase() == vl.Passado.toUpperCase()){
                         Past.style.background = "#58ff95"
                         rPastp.style.color = "#58ff95"
                     }
@@ -31,7 +31,7 @@ const getVerb = () => {
                     }
                 }
                 if(Participle.value.length > 0){
-                    if(Participle.value.toUpperCase().replace(" ",'') == vl.Particípio.toUpperCase()){
+                    if(Participle.value.toUpperCase() == vl.Particípio.toUpperCase()){
                         Participle.style.background = "#58ff95"
                         rPartp.style.color = "#58ff95"
                     }
@@ -43,7 +43,7 @@ const getVerb = () => {
                if(Translate.value.length > 0){
                 if(typeof(vl.Tradução) == "object"){
                     
-                    if( vl.Tradução.includes((Translate.value.replace(Translate.value[1],Translate.value[1].toUpperCase())).replace(Translate.value[0],''))== true){
+                    if( vl.Tradução.includes((Translate.value.replace(Translate.value[0],Translate.value[0].toUpperCase())))== true){
                         Translate.style.background = "#58ff95"
                         rTradup.style.color = "#58ff95"
                     }
@@ -54,7 +54,7 @@ const getVerb = () => {
                 }
                 if(typeof(vl.Tradução) == "string"){
                     
-                    if(Translate.value.toUpperCase().replace(" ","") == vl.Tradução.toUpperCase()){
+                    if(Translate.value.toUpperCase() == vl.Tradução.toUpperCase()){
                         Translate.style.background = "#58ff95"
                         rTradup.style.color = "#58ff95"
                     }
@@ -88,10 +88,14 @@ const getVerb = () => {
                     
                     verb.innerHTML = vl.Infinitivo
                     btn.innerHTML = "Submit"
-                    Past.value = " "
-                    Participle.value = " "
-                    Translate.value = " "
                     rPartp.innerHTML = rPartv.innerHTML =rPastp.innerHTML = rPastv.innerHTML = rTradup.innerHTML = rTraduv.innerHTML = ''
+                    const erase = (e)=>{
+                        e.style.background = "#fff";
+                        e.value = ""
+                    }
+                    erase(Past)
+                    erase(Participle)
+                    erase(Translate)
 
                 }
                 if(cont %2 == 1){
