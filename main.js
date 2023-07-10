@@ -13,6 +13,10 @@ const rPartv = elemento('.participle-verb')
 const rTradup = elemento('.translate-player')
 const rTraduv = elemento('.translate-verb')
 
+const btf = elemento('img')
+
+
+
 
 const getVerb = () => {
     fetch("irregular-verbs.json").then((response) => {
@@ -111,6 +115,7 @@ const getVerb = () => {
                    
                 }
                 cont += 1
+                
             
             })
 
@@ -120,4 +125,25 @@ const getVerb = () => {
     })
 
 }
+btf.addEventListener('click',()=>{
+    const texto = verb.innerHTML
+    const voz = new SpeechSynthesisUtterance(texto);
+
+    voz.lang = 'en'
+    voz.pitch = .8
+    voz.volume = 1
+    voz.rate = 0.8
+    speechSynthesis.speak(voz)
+    
+})
+
+btf.addEventListener('mouseover',()=>{
+    btf.src = 'volumef1.svg'
+})
+btf.addEventListener('mouseout',()=>{
+    btf.src = 'volumef0.svg'
+})
+
 getVerb()
+
+
